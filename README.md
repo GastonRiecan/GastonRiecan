@@ -1,4 +1,5 @@
-# 💫 About Me:
+# ![rocket-dynamic-premium](https://github.com/GastonRiecan/GastonRiecan/assets/104398520/691bb1f6-533d-48c2-91cf-c50ec08dc86e)
+ About Me:
 I am a 37-year-old programming student currently specializing in frontend development while completing my higher technical education in programming. With a fervent passion for continuous learning and a drive to immerse myself in the dynamic world of IT, I am poised to embark on a fulfilling career journey.
 
 
