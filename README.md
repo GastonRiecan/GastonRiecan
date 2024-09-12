@@ -4,6 +4,7 @@
  About Me:
 I am a 37-year-old programming student currently specializing in frontend development while completing my higher technical education in programming. With a fervent passion for continuous learning and a drive to immerse myself in the dynamic world of IT, I am poised to embark on a fulfilling career journey.
 
+![Programming-gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJmMXRlc3k1bnlta3phMDZnZGc0aGtnZGhiZGd0aG93Z3M1d2h6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp)![Programming-gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJmMXRlc3k1bnlta3phMDZnZGc0aGtnZGhiZGd0aG93Z3M1d2h6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gastonriecan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/gastón-esteban-riecan-a396bb207)
