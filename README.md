@@ -23,6 +23,7 @@ I am a 37-year-old programming student currently specializing in frontend develo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![binary-img](https://media.istockphoto.com/id/1415456512/es/vector/fondo-de-ceros-y-unos-lenguaje-de-maquinaria-degradado-verde-0-y-1-n%C3%BAmeros-sobre-fondo.jpg?s=612x612&w=0&k=20&c=p3Etq025-UO906vSmNGMAiHM0Lkcqkx5BvqvfBbFiYI=)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GastonRiecan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
