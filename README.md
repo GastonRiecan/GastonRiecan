@@ -1,10 +1,10 @@
 
 
-# 
- About Me:
+ 
+# About Me:
 I am a 37-year-old programming student currently specializing in frontend development while completing my higher technical education in programming. With a fervent passion for continuous learning and a drive to immerse myself in the dynamic world of IT, I am poised to embark on a fulfilling career journey.
 
-![Programming-gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJmMXRlc3k1bnlta3phMDZnZGc0aGtnZGhiZGd0aG93Z3M1d2h6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp)![Programming-gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJmMXRlc3k1bnlta3phMDZnZGc0aGtnZGhiZGd0aG93Z3M1d2h6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp)
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="JavaScript Logo" width="1000" height="400" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gastonriecan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/gastón-esteban-riecan-a396bb207)
@@ -23,7 +23,10 @@ I am a 37-year-old programming student currently specializing in frontend develo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![binary-img](https://media.istockphoto.com/id/1415456512/es/vector/fondo-de-ceros-y-unos-lenguaje-de-maquinaria-degradado-verde-0-y-1-n%C3%BAmeros-sobre-fondo.jpg?s=612x612&w=0&k=20&c=p3Etq025-UO906vSmNGMAiHM0Lkcqkx5BvqvfBbFiYI=)
+
+<img src="https://media.istockphoto.com/id/1415456512/es/vector/fondo-de-ceros-y-unos-lenguaje-de-maquinaria-degradado-verde-0-y-1-n%C3%BAmeros-sobre-fondo.jpg?s=612x612&w=0&k=20&c=p3Etq025-UO906vSmNGMAiHM0Lkcqkx5BvqvfBbFiYI=" alt="JavaScript Logo" />
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GastonRiecan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
