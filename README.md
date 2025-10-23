@@ -2,7 +2,7 @@
 
  
 # About Me:
-I am a 38-year-old developer specialized in frontend development. With a fervent passion for continuous learning and a drive to immerse myself in the dynamic world of IT, I am poised to embark on a fulfilling career journey.
+I am a 38-year-old developer specialized in Fullstack development. With a fervent passion for continuous learning and a drive to immerse myself in the dynamic world of IT, I am poised to embark on a fulfilling career journey.
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="JavaScript Logo" width="1000" height="400" />
 
